@@ -4,8 +4,8 @@ ol,ul {
 ul {
   float:left;
 }
-a {
-  color:white;
+ol ul a {
+  text-decoration:none;
 }
 .icon {
   padding: 20px;
