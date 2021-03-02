@@ -3,6 +3,7 @@ ul, li {
 }
 li {
   float:left;
+  list-style-type:none;
 }
 ul li a {
   text-decoration:none;
