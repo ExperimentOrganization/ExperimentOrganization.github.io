@@ -1,10 +1,10 @@
-ol,ul {
+ul, li {
   padding-left:0px;
 }
-ul {
+li {
   float:left;
 }
-ol ul a {
+ul li a {
   text-decoration:none;
 }
 .icon {
